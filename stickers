@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>web stickers </title>
+	<link  type="text/css" rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+</head>
+<body>
+	<section id=header>
+		<h1> Stickers cho anh iu Tuyen Tran </h1>
+</section>
+<section id=list>
+	<ul>
+
+	<a href=#ganyu>	<li>Ganyu</li> </a>
+			<li>Nao</li>
+		<li>Nahida</li>
+	</ul>
+</section>
+
+	<div id="ganyu">
+		<h2>Ganyu</h2>
+	
+		<img id="ganyu01" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_1.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+		
+		<img id="ganyu02" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_2.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+		<img id="ganyu03" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_3.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+		<img id="ganyu04" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_4.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+		<img id="ganyu05" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_5.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+		<img id="ganyu06" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_6.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+			<div style="display:flex">
+			<button onclick="copyImage1()" style="margin-left:150px">Copy Image</button>
+			<button onclick="copyImage2()" style="margin-left:150px">Copy Image</button>
+			<button onclick="copyImage3()"  style="margin-left:90px">Copy Image</button>
+			<button onclick="copyImage4()"  style="margin-left:150px">Copy Image</button>
+			<button onclick="copyImage5()"  style="margin-left:120px">Copy Image</button>
+			<button onclick="copyImage6()"  style="margin-left:130px">Copy Image</button>
+		</div>
+		<img id="ganyu07" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_7.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+
+		<img id="ganyu09" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_9.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+		<img id="ganyu10" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu-2/sticker_10.png?0b19bd5666ff92230e4256c0609fe8d6" width="200" height="200">
+		<img id="ganyu11" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu/sticker_1.png?89b956340452584e02345f27c655093a" width="200" height="200">
+		<img id="ganyu12" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu/sticker_9.png?89b956340452584e02345f27c655093a" width="200" height="200">
+		<img id="ganyu13" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu/sticker_11.png?89b956340452584e02345f27c655093a" width="200" height="200">
+			<div style="display:flex">
+			<button onclick="copyImage7()" style="margin-left:150px">Copy Image</button>
+			<button onclick="copyImage9()"  style="margin-left:120px">Copy Image</button>
+			<button onclick="copyImage10()"  style="margin-left:150px">Copy Image</button>
+			<button onclick="copyImage11()"  style="margin-left:110px">Copy Image</button>
+				<button onclick="copyImage12()"  style="margin-left:110px">Copy Image</button>
+					<button onclick="copyImage13()"  style="margin-left:110px">Copy Image</button>
+		</div>
+		<img id="ganyu14" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu/sticker_12.png?89b956340452584e02345f27c655093a" width="200" height="200">
+		<img id="ganyu15" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu/sticker_4.png?89b956340452584e02345f27c655093a" width="200" height="200">
+		<img id="ganyu16" src="https://i.imgur.com/5HMHWI2.png" width="200" height="200">
+		<img id="ganyu17" src="https://i.imgur.com/eVLJAwQ.png" width="200" height="200">
+		<img id="ganyu18" src="https://i.imgur.com/RQfeN69.png" width="200" height="200">
+		<div style="display:flex">
+			<button onclick="copyImage14()"  style="margin-left:250px">Copy Image</button>
+				<button onclick="copyImage15()"  style="margin-left:130px">Copy Image</button>
+					<button onclick="copyImage16()"  style="margin-left:130px">Copy Image</button>
+						<button onclick="copyImage17()"  style="margin-left:140px">Copy Image</button>
+							<button onclick="copyImage18()"  style="margin-left:120px">Copy Image</button>
+			</div>
+	</div>
+	<div id="Nao">
+		<h2>Nao</h2>
+		<img id="nao01" src="https://i.imgur.com/cNuMadB.png" width="220" height="300">
+		<img id="nao02" src="https://i.imgur.com/H2s6ost.png" width="220" height="300">
+		<img id="nao03" src="https://i.imgur.com/ps9MBI9.png" width="220" height="300">
+			<img id="nao04" src="https://i.imgur.com/UHAA3ds.png" width="290" height="300">
+			<img id="nao05" src="https://i.imgur.com/dHe1Gdp.png" width="360" height="300">
+			<div style="display:flex">
+			<button onclick="copyImage19()"  style="margin-left:100px">Copy Image</button>
+			<button onclick="copyImage20()"  style="margin-left:170px">Copy Image</button>
+			<button onclick="copyImage21()"  style="margin-left:150px">Copy Image</button>
+				<button onclick="copyImage22()"  style="margin-left:170px">Copy Image</button>
+					<button onclick="copyImage23()"  style="margin-left:270px">Copy Image</button>
+						
+
+		</div>
+					<img id="nao06" src="https://i.imgur.com/VYxFoYW.png" width="320" height="300">
+						<img id="nao07" src="https://i.imgur.com/4zfsVuT.png" width="300" height="300">
+							<img id="nao08" src="https://i.imgur.com/oNj2HZS.png" width="300" height="300">
+								<img id="nao09" src="https://i.imgur.com/crQOOeE.png" width="260" height="300">
+								<div style="display:flex">
+									<button onclick="copyImage24()"  style="margin-left:250px">Copy Image</button>
+							<button onclick="copyImage25()"  style="margin-left:250px">Copy Image</button>
+								<button onclick="copyImage26()"  style="margin-left:240px">Copy Image</button>
+									<button onclick="copyImage27()"  style="margin-left:175px">Copy Image</button>
+										
+								</div>
+									<img id="nao10" src="https://i.imgur.com/uzumKZe.png" width="260" height="300">
+										<img id="nao11" src="https://i.imgur.com/BBwaeJ6.png" width="250" height="300">
+											<img id="nao12" src="https://i.imgur.com/qwMxLOZ.png" width="350" height="300">
+											<div style="display:flex">
+											<button onclick="copyImage28()"  style="margin-left:390px">Copy Image</button>
+											<button onclick="copyImage29()"  style="margin-left:150px">Copy Image</button>
+												<button onclick="copyImage30()"  style="margin-left:250px">Copy Image</button>
+											</div>
+	</div>
+
+    <script>
+        async function copyImage1() {
+            const img = document.getElementById('ganyu01');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+          async function copyImage2() {
+            const img = document.getElementById('ganyu02');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage3() {
+            const img = document.getElementById('ganyu03');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+		async function copyImage4() {
+            const img = document.getElementById('ganyu04');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+        async function copyImage5() {
+            const img = document.getElementById('ganyu05');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }   
+        async function copyImage6() {
+            const img = document.getElementById('ganyu06');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+           async function copyImage7() {
+            const img = document.getElementById('ganyu07');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+    
+           async function copyImage9() {
+            const img = document.getElementById('ganyu09');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+        async function copyImage10() {
+            const img = document.getElementById('ganyu10');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+        async function copyImage11() {
+            const img = document.getElementById('ganyu11');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage12() {
+            const img = document.getElementById('ganyu12');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        } async function copyImage13() {
+            const img = document.getElementById('ganyu13');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        } async function copyImage14() {
+            const img = document.getElementById('ganyu14');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+        async function copyImage15() {
+            const img = document.getElementById('ganyu15');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+  async function copyImage16() {
+            const img = document.getElementById('ganyu16');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }  async function copyImage17() {
+            const img = document.getElementById('ganyu17');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }  async function copyImage18() {
+            const img = document.getElementById('ganyu18');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+
+         async function copyImage19() {
+            const img = document.getElementById('nao01');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage20() {
+            const img = document.getElementById('nao02');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage21() {
+            const img = document.getElementById('nao03');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage22() {
+            const img = document.getElementById('nao04');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage23() {
+            const img = document.getElementById('nao05');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage24() {
+            const img = document.getElementById('nao06');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage25() {
+            const img = document.getElementById('nao07');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage26() {
+            const img = document.getElementById('nao08');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage27() {
+            const img = document.getElementById('nao09');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage28() {
+            const img = document.getElementById('nao10');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage29() {
+            const img = document.getElementById('nao11');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+         async function copyImage30() {
+            const img = document.getElementById('nao12');
+            const response = await fetch(img.src);
+            const blob = await response.blob();
+            const item = new ClipboardItem({ 'image/png': blob });
+            await navigator.clipboard.write([item]);
+            alert('Image copied to clipboard!');
+        }
+
+    </script>
+</body>
+
+</html>
