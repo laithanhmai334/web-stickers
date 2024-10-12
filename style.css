@@ -1,0 +1,34 @@
+body {
+background-color: #ffe5e5 ;
+
+}
+#header {
+	text-align: center;
+	font-size: 2em;
+	color:#ff9999;
+	font-family:"Sofia",sans-serif;
+}
+#list {
+	  background: #ff9999;
+  padding: 20px;
+		font-family:"Sofia",sans-serif;
+		font-size: 2em;
+}
+ul li {
+  background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
+#ganyu  {
+		text-align: center;
+	font-size: 2em;
+	color:#ff9999;
+		font-family:"Sofia",sans-serif;
+}
+#Nao  {
+		text-align: center;
+	font-size: 2em;
+	color:#ff9999;
+		font-family:"Sofia",sans-serif;
+}
